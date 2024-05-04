@@ -1,4 +1,4 @@
-# AI-in-a-Box Accelerator Name
+<!-- # AI-in-a-Box Accelerator Name -->
 
 <!-- <div style="display: flex;">
   <div style="width: 70%;">
@@ -8,7 +8,7 @@
     <img src="./media/ai-in-a-box.png" alt="AI-in-a-box Project Logo: Description" style="width: 10%">
   </div>
 </div> -->
-| | |
+|AI-in-a-Box Accelerator Name | |
 |:---| ---:|
 |This solution is part of the the AI-in-a-Box framework developed by the team of Microsoft Customer Engineers and Architects to accelerate the deployment of AI and ML solutions. Our goal is to simplify the adoption of AI technologies by providing ready-to-use accelerators that ensure quality, efficiency, and rapid deployment.| <img src="./media/ai-in-a-box.png" alt="AI-in-a-box Project Logo: Description" style="width: 75%"> |
 
