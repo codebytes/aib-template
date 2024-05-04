@@ -1,8 +1,8 @@
 # AI-in-a-Box Accelerator Name
 
-  <img src="./media/ai-in-a-box.png" alt="AI-in-a-box Project Logo: Description" style="width: 15%; float: right;">
-
-  This solution is part of the the AI-in-a-Box framework developed by the team of Microsoft Customer Engineers and Architects to accelerate the deployment of AI and ML solutions. Our goal is to simplify the adoption of AI technologies by providing ready-to-use accelerators that ensure quality, efficiency, and rapid deployment.
+<p> This solution is part of the the AI-in-a-Box framework developed by the team of Microsoft Customer Engineers and Architects to accelerate the deployment of AI and ML solutions. Our goal is to simplify the adoption of AI technologies by providing ready-to-use accelerators that ensure quality, efficiency, and rapid deployment.
+ <img src="./media/ai-in-a-box.png" alt="AI-in-a-box Project Logo: Description" style="width: 15%; float: right;">
+</p>
 
 ## User Story
 This is the WHY
