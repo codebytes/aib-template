@@ -48,7 +48,7 @@ Describe ways users can customize and enahance the solution for use inside their
 
 ## Deploy the Solution
 
-Provide a quick overview of how someone can start using your solution. Include steps like:
+Provide instructions on how to deploy the solution:
 
 1. **Prerequisites**: List any requirements for using this solution (e.g., software, accounts).
 2. **Installation**: Step-by-step instructions for deploying the solution to Azure.
