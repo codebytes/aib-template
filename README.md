@@ -62,10 +62,6 @@ Include instructions on how they can run and test the solution
 
 Describe different ideas on how to enhance or customize for their use cases
 
-## Available Features
-
-Describe the core features and components of your project. You can structure this section in bullet points or a table format, depending on what makes the most sense for your project.
-
 ## How to Contribute
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>
