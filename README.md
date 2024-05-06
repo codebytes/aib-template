@@ -48,7 +48,7 @@ Describe ways users can customize and enahance the solution for use inside their
 
 ## Deploy the Solution
 
-Provide instructions on how to deploy the solution:
+Provide instructions on how to deploy the solutione:
 
 1. **Prerequisites**: List any requirements for using this solution (e.g., software, accounts).
 2. **Installation**: Step-by-step instructions for deploying the solution to Azure.
@@ -68,12 +68,11 @@ Describe the core features and components of your project. You can structure thi
 
 ## How to Contribute
 
-Encourage community contributions by explaining how others can help improve your project. Include:
+This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>
 
-- Guidelines for submitting issues or bugs
-- Instructions for proposing enhancements
-- The process for submitting pull requests
+When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
 
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq) or contact <opencode@microsoft.com> with any additional questions or comments.
 ## Key Contacts & Contributors
 
 Highlight the main contacts for the project and acknowledge contributors. You can adapt the structure from AI-in-a-Box:
@@ -88,7 +87,7 @@ If applicable, offer thanks to individuals, organizations, or projects that help
 
 ## License
 
-Specify the license under which your project is released, and include a link to the full license text.
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general). Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
 
 ---
 
