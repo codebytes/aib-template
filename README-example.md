@@ -42,8 +42,8 @@ Yet, for those not versed in Python or .NET, tapping into Azure Open AI's potent
     - Artifacts include all pipelines and activities needed to call GPT-4V vision to analyze your videos and images and store the results in Azure Cosmos DB
   - [Azure Cosmos DB for storing chat comption results](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-portal)
 
-For detailed information on this solution refer to:
-    [Analytics Videos with Azure Open AI GPT-R Turbo with Vision and Azure Data Factory](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/analyze-videos-with-azure-open-ai-gpt-4-turbo-with-vision-and/ba-p/4032778)
+For detailed information on this solution refer to:  
+    [Analytics Videos with Azure Open AI GPT-R Turbo with Vision and Azure Data Factory](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/analyze-videos-with-azure-open-ai-gpt-4-turbo-with-vision-and/ba-p/4032778)  
     [Analytics Videos with Azure Open AI GPT-R Turbo with Vision and Azure Data Factory](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/image-analysis-with-azure-open-ai-gpt-4v-and-azure-data-factory/ba-p/4117969)
   
 ## Thinking Outside of the Box
